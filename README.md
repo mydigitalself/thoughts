@@ -7,5 +7,5 @@ test
 
 ```
 function acknowledge () {
-  return ‘loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong line’;
+  return ‘looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong line’;
 ```
