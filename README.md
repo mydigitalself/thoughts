@@ -11,3 +11,10 @@ function acknowledge () {
 ```
 
 ![image](http://app-001/images/2/logo-mark-green-square-white-text.png)
+
+```
+function trigger() {
+  var args = Array.prototype.slice.call(arguments);
+  ...
+}
+```
